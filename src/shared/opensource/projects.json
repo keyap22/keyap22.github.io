@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Full Stack Application",
+      "createdAt": "2023-04-09T16:26:54Z",
+      "url": "https://github.com/keyap2000/Full-Stack-Application/tree/main",
+      "description": "🔥 A website storing the uploaded file in S3 bucket using AWS-SDK. A fully automated system using Lambda functions and API Gateway to store text inputs, S3 file paths, and auto-generated IDs with nanoid in DynamoDB.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "AWS",
+          "iconifyClass": "logos:aws"
+        },
+        {
+          "name": "Node",
+          "iconifyClass": "devicon:nodejs-wordmark"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "vscode-icons:file-type-reactjs"
+        },
+        {
+          "name": "DynamoDB",
+          "iconifyClass": "devicon:dynamodb"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Devils among Apocalypse",
+      "createdAt": "2022-11-23T20:41:33Z",
+      "url": "https://github.com/keyap2000/Devils-Among-Apocalypse",
+      "description": "📦 Created a single player game with inventory, combat, conversation system along with game menu.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "C#",
+          "iconifyClass": "logos:c-sharp"
+        },
+        {
+          "name": "Unity",
+          "iconifyClass": "logos:unity"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Unit Tests using JUnit",
+      "createdAt": "2022-11-02T14:50:20Z",
+      "url": "https://github.com/keyap2000/Unit-Test-Reuse",
+      "description": "🌀 Created unit tests for each and every feature of the project considering all the possible situations along with maintaining coding standards.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JUnit5",
+          "iconifyClass": "devicon:junit-wordmark"
+        },
+        {
+          "name": "Java",
+          "iconifyClass": "logos:java"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "Customer Segmentation",
+      "createdAt": "2021-04-26T17:56:07Z",
+      "url": "https://colab.research.google.com/drive/1ED1BZK2QcV_f4F-XJ7cyT-mBXiufgMGe?usp=sharing",
+      "description": "⚙️ Dataset was preprocessed and trained using the KMeans algorithm and as a final output, we obtained different clusters on the basis of RFM.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Plotly",
+          "iconifyClass": "devicon:plotly-wordmark"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "name": "Import-Export Trade of India Dashboard",
+      "createdAt": "2021-03-06T06:36:41Z",
+      "url": "https://github.com/jeeljadawala/Indian_import-export-trade_Dashboard",
+      "description": "🚀 Created an interactive dashboard for the given data, showcasing various functionalities such as recognizing the Top 5 import and export partners of India, the growth/fall-off of Value vs. Year, determining the maximum overall export of category wrt. Year, and correlation between categories and countries with the help of bar charts, pie charts, heatmaps, histograms, bubble charts, and multiline graphs.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "D3.js",
+          "iconifyClass": "devicon:d3js"
+        },
+        {
+          "name": "HTML5",
+          "iconifyClass": "logos:html-5"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "e-commerce web application",
+      "createdAt": "2021-03-01T08:31:51Z",
+      "url": "https://github.com/Dhyani-16/e-rec-sys",
+      "description": "🚀 Developed an e-commerce website where customers can view products, add them to their favorites, add them to a cart, rate the product, post feedback, ask a question, and search and buy the product. User accounts will be created only after email address verification..",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Django",
+          "iconifyClass": "devicon-plain:django-wordmark"
+        },
+        {
+          "name": "Bootstrap",
+          "iconifyClass": "skill-icons:bootstrap"
+        }
+      ]
+    }
+  ]
+}
