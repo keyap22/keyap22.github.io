@@ -13,7 +13,7 @@ import { Fade } from "react-reveal";
 // 	subtitle: "Work, Internship and Volunteership",
 // 	description:
 // 		"I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
-// 	
+//
 // 	sections: [
 // 		{
 // 			title: "Work",
@@ -147,6 +147,7 @@ import { Fade } from "react-reveal";
 class Experience extends Component {
   render() {
     const theme = this.props.theme;
+    const header_image_path = experience["header_image_path"];
     return (
       <div className="experience-main">
         <Header theme={theme} />
@@ -155,10 +156,9 @@ class Experience extends Component {
             <div className="experience-heading-div">
               <div className="experience-heading-img-div">
                 <img
-									src={require(`../../assests/images/${experience["header_image_path"]}`)}
-									alt=""
-								/>
-              
+                  src={require(`../../assests/images/${header_image_path}`)}
+                  alt=""
+                />
               </div>
               <div className="experience-heading-text-div">
                 <h1
