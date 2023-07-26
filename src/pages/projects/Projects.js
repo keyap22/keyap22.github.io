@@ -27,8 +27,10 @@ class Projects extends Component {
             <div className="projects-heading-div">
               <div className="projects-heading-img-div">
                 <img
-                  src={require(`../../assests/images/${projectsHeader["avatar_image_path"]}`)}
-                  alt=""
+                  src={require("../../assests/images/projects.png")}
+                  alt="FullStack"
+                  height="860px"
+                  width="588px"
                 />
               </div>
               <div className="projects-heading-text-div">
@@ -92,7 +94,7 @@ class Projects extends Component {
         </div>*/}
 
         <Footer theme={this.props.theme} onToggle={this.props.onToggle} />
-        <TopButton theme={this.props.theme} /> 
+        <TopButton theme={this.props.theme} />
       </div>
     );
   }

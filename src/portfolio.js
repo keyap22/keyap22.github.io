@@ -107,7 +107,7 @@ const skills = {
     // },
     {
       title: "Full Stack Development",
-      fileName: "FullStackImg",
+      // fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using React",
         "⚡ Developed multiple fully-functional full stack projects in MERN Stack, Django",
@@ -533,7 +533,7 @@ const projectsHeader = {
   title: "Projects",
   description:
     "My projects makes use of vast variety of latest technology tools. My best experience is to create Full Stack Applications using MERN Stack or cloud provider like AWS.",
-  avatar_image_path: "projects.png",
+  avatar_image_path: "",
 };
 
 // const publicationsHeader = {
@@ -573,8 +573,7 @@ const contactPageData = {
   // },
   addressSection: {
     title: "Address",
-    subtitle:
-      "1260 E University Dr, Tempe, AZ - 85281",
+    subtitle: "1260 E University Dr, Tempe, AZ - 85281",
     locality: "Tempe",
     country: "US",
     region: "Arizona",
