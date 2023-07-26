@@ -107,7 +107,7 @@ const skills = {
     // },
     {
       title: "Full Stack Development",
-      // fileName: "FullStackImg",
+      fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using React",
         "⚡ Developed multiple fully-functional full stack projects in MERN Stack, Django",
@@ -489,7 +489,7 @@ const experience = {
           title: "MERN Stack Intern",
           company: "Unnati Informatics LLP.",
           company_url: "http://unnatiinformatics.com/",
-          logo_path: "unnati_logo.jpeg",
+          logo_path: "unnati_logo.png",
           duration: "January 2022 - April 2022",
           location: "Ahmedabad, Gujarat",
           description:
@@ -573,12 +573,12 @@ const contactPageData = {
   // },
   addressSection: {
     title: "Address",
-    subtitle: "1260 E University Dr, Tempe, AZ - 85281",
+    subtitle: "Tempe, AZ",
     locality: "Tempe",
     country: "US",
     region: "Arizona",
-    postalCode: "85281",
-    streetAddress: "1260 E University Dr",
+    // postalCode: "85281",
+    // streetAddress: "1260 E University Dr",
     avatar_image_path: "address.png",
     location_map_link: "https://goo.gl/maps/qiCgNLQZXpMUU8kT8",
   },
